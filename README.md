@@ -13,8 +13,8 @@ iOS开发,UITableView中section的展开和收起;
 </br>
 </br>
 
-### 代码区域
-<div  align="center">    
+### 效果图
+<div  align="center">    
 <img src="https://github.com/NSLog-YuHaitao/UITableView-section/blob/master/picture/Result.gif" width="375" height="700" />
 </div>
 
